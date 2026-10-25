@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Couture — Pakistani Women's Custom Stitching & Tailoring Studio",
+  "description": "Premium Pakistani bespoke women's tailoring. Custom stitching for Shalwar Kameez, Kalidar Frocks, Bridal Maxis, Angrakha Ghararas, and Saree Blouses with doorstep Master Darzi fitting across Lahore, Karachi & Islamabad. Prices in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
